@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Abdullrahman Wasfi]!
+# 👋 Hi there, I'm Abdullrahman Wasfi!
 
 🔐 **DevSecOps & DevOps Engineer**  
 ☁️ AWS | 🐳 Kubernetes | 🐧 Linux | 🔍 InfoSec Enthusiast  
