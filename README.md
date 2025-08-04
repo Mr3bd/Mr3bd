@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a DevSecOps engineer with a background in Full Stack Development and a degree in **Network and Information Security Engineering** from Princess Sumaya University for Technology.
+I'm a Cloud Security / DevSecOps engineer with a background in Full Stack Development and a degree in **Network and Information Security Engineering** from Princess Sumaya University for Technology.
 
 I specialize in:
 - Securing and automating **CI/CD pipelines**
