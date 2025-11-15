@@ -61,12 +61,23 @@ Before specializing in security, I worked for over **3 years as a Full Stack Dev
 
 ## 📂 Highlighted Projects
 
-- 🔰 **Kubernetes Security Policies Starter Pack** — Hardening workloads with network, pod, and RBAC policies  
-- 🧊 **Dockerized Flask App with Security Hardening** — Non-root containers, dropped capabilities, secure defaults  
-- 🌐 **Flask Web App (Vagrant + NGINX)** — Multi-VM environment with bastion node and reverse proxy  
-- 🛠️ **Secure AWS S3 Terraform Module** — Encryption, versioning, logging, and public-access blocking  
-- 🔐 **Cloud Security CI/CD Pipeline** — Terraform scanning (tfsec/checkov), Semgrep, Gitleaks  
-- 🚀 **Node.js App (Vagrant + NGINX + Ansible)** — Automated provisioning & reverse proxy setup
+- 🛡️ **[Kubernetes Security Policies Starter Pack](https://github.com/Mr3bd/k8s-complete-security-policies)**  
+  Hardening Kubernetes workloads using NetworkPolicies, PodSecurityStandards, RBAC, and secure baselines.
+
+- 🐳 **[Dockerized Flask App with Security Hardening](https://github.com/Mr3bd/docker-flask-security-hardened-app)**  
+  A secure containerized Flask app behind NGINX + PostgreSQL using non-root containers, dropped capabilities, and best-practice hardening.
+
+- 🌐 **[Flask App (Vagrant + NGINX + Multi-VM)](https://github.com/Mr3bd/secure-multi-vm-vagrant-flask-nginx-db-bastion)**  
+  Fully automated multi-VM environment with bastion node, reverse proxy, and isolated services—provisioned using Vagrant.
+
+- 🔐 **[Secure AWS S3 Terraform Module](https://github.com/Mr3bd/terraform-aws-secure-s3-bucket)**  
+  AWS S3 module enforcing encryption, public-access blocking, versioning, logging, and clean IaC structure.
+
+- ☁️ **[Cloud Security CI/CD Pipeline (Terraform)](https://github.com/Mr3bd/cloud-security-pipeline-terraform)**  
+  Security pipeline that scans for secrets, Terraform misconfigurations, insecure patterns, and more using Gitleaks, tfsec, checkov, and Semgrep.
+
+- 🚀 **[Node.js App — Vagrant + NGINX + Ansible](https://github.com/Mr3bd/vagrant-nodejs-nginx-ansible)**  
+  Automated provisioning of a Node.js environment behind NGINX reverse proxy using Vagrant + Ansible.
 
 ---
 
