@@ -62,22 +62,22 @@ Before specializing in security, I worked for over **3 years as a Full Stack Dev
 ## 📂 Highlighted Projects
 
 - 🛡️ **[Kubernetes Security Policies Starter Pack](https://github.com/Mr3bd/k8s-complete-security-policies)**  
-  Hardening Kubernetes workloads using NetworkPolicies, PodSecurityStandards, RBAC, and secure baselines.
+  Hardening Kubernetes workloads with NetworkPolicies, Pod Security Standards, RBAC, and secure deployment baselines.
 
 - 🐳 **[Dockerized Flask App with Security Hardening](https://github.com/Mr3bd/docker-flask-security-hardened-app)**  
-  A secure containerized Flask app behind NGINX + PostgreSQL using non-root containers, dropped capabilities, and best-practice hardening.
+  A secure containerized Flask application running behind NGINX and PostgreSQL, built with non-root containers, reduced capabilities, and hardened configurations.
 
 - 🌐 **[Flask App (Vagrant + NGINX + Multi-VM)](https://github.com/Mr3bd/secure-multi-vm-vagrant-flask-nginx-db-bastion)**  
-  Fully automated multi-VM environment with bastion node, reverse proxy, and isolated services—provisioned using Vagrant.
+  A fully automated multi-VM environment provisioned with Vagrant, including a bastion host, NGINX reverse proxy, and isolated services.
 
 - 🔐 **[Secure AWS S3 Terraform Module](https://github.com/Mr3bd/terraform-aws-secure-s3-bucket)**  
-  AWS S3 module enforcing encryption, public-access blocking, versioning, logging, and clean IaC structure.
+  A reusable S3 module with encryption by default, blocked public access, optional versioning, logging support, and clean IaC structure.
 
 - ☁️ **[Cloud Security CI/CD Pipeline (Terraform)](https://github.com/Mr3bd/cloud-security-pipeline-terraform)**  
-  Security pipeline that scans for secrets, Terraform misconfigurations, insecure patterns, and more using Gitleaks, tfsec, checkov, and Semgrep.
+  A security-focused pipeline that performs secret scanning, Terraform static analysis, code pattern detection, and IaC validation.
 
-- 🚀 **[Node.js App — Vagrant + NGINX + Ansible](https://github.com/Mr3bd/vagrant-nodejs-nginx-ansible)**  
-  Automated provisioning of a Node.js environment behind NGINX reverse proxy using Vagrant + Ansible.
+- 🚀 **[Node.js App (Vagrant + NGINX + Ansible)](https://github.com/Mr3bd/vagrant-nodejs-nginx-ansible)**  
+  A Node.js environment provisioned using Vagrant and Ansible, featuring NGINX reverse proxy, automated setup, and service management.
 
 ---
 
