@@ -79,4 +79,4 @@ Before specializing in security, I worked for over **3 years as a Full Stack Dev
 
 ---
 
-⭐ Always open to opportunities in **Cloud Security**, **DevSecOps**, and **Cyber Assurance**.
+⭐ Always open to opportunities in **Cloud Security** and **DevSecOps**.
